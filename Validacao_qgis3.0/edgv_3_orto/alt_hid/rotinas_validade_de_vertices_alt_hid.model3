@@ -1,0 +1,393 @@
+<!DOCTYPE model>
+<Option type="Map">
+  <Option type="Map" name="children">
+    <Option type="Map" name="model:05-Identificar vértice não compartilhado nas intersecções_1">
+      <Option value="true" type="bool" name="active"/>
+      <Option name="alg_config"/>
+      <Option value="model:05-Identificar vértice não compartilhado nas intersecções" type="QString" name="alg_id"/>
+      <Option value="" type="QString" name="color"/>
+      <Option type="Map" name="comment">
+        <Option value="" type="QString" name="color"/>
+        <Option value="" type="QString" name="component_description"/>
+        <Option value="60" type="double" name="component_height"/>
+        <Option value="1060.3536051875822" type="double" name="component_pos_x"/>
+        <Option value="738.5998102797836" type="double" name="component_pos_y"/>
+        <Option value="100" type="double" name="component_width"/>
+        <Option value="true" type="bool" name="outputs_collapsed"/>
+        <Option value="true" type="bool" name="parameters_collapsed"/>
+      </Option>
+      <Option value="05-Identificar vértice não compartilhado nas intersecções" type="QString" name="component_description"/>
+      <Option value="30" type="double" name="component_height"/>
+      <Option value="347.5536051875821" type="double" name="component_pos_x"/>
+      <Option value="89.9998102797835" type="double" name="component_pos_y"/>
+      <Option value="200" type="double" name="component_width"/>
+      <Option name="dependencies"/>
+      <Option value="model:05-Identificar vértice não compartilhado nas intersecções_1" type="QString" name="id"/>
+      <Option name="outputs"/>
+      <Option value="true" type="bool" name="outputs_collapsed"/>
+      <Option value="true" type="bool" name="parameters_collapsed"/>
+      <Option name="params"/>
+    </Option>
+    <Option type="Map" name="model:06-Identificar vértice não compartilhado nos segmentos compartilhados_1">
+      <Option value="true" type="bool" name="active"/>
+      <Option name="alg_config"/>
+      <Option value="model:06-Identificar vértice não compartilhado nos segmentos compartilhados" type="QString" name="alg_id"/>
+      <Option value="" type="QString" name="color"/>
+      <Option type="Map" name="comment">
+        <Option value="" type="QString" name="color"/>
+        <Option value="" type="QString" name="component_description"/>
+        <Option value="60" type="double" name="component_height"/>
+        <Option value="1280.3536051875822" type="double" name="component_pos_x"/>
+        <Option value="838.5998102797836" type="double" name="component_pos_y"/>
+        <Option value="100" type="double" name="component_width"/>
+        <Option value="true" type="bool" name="outputs_collapsed"/>
+        <Option value="true" type="bool" name="parameters_collapsed"/>
+      </Option>
+      <Option value="06-Identificar vértice não compartilhado nos segmentos compartilhados" type="QString" name="component_description"/>
+      <Option value="30" type="double" name="component_height"/>
+      <Option value="350.753605187582" type="double" name="component_pos_x"/>
+      <Option value="153.9998102797835" type="double" name="component_pos_y"/>
+      <Option value="200" type="double" name="component_width"/>
+      <Option name="dependencies"/>
+      <Option value="model:06-Identificar vértice não compartilhado nos segmentos compartilhados_1" type="QString" name="id"/>
+      <Option name="outputs"/>
+      <Option value="true" type="bool" name="outputs_collapsed"/>
+      <Option value="true" type="bool" name="parameters_collapsed"/>
+      <Option name="params"/>
+    </Option>
+    <Option type="Map" name="model:07-Identificar vértice próximo de aresta_1">
+      <Option value="true" type="bool" name="active"/>
+      <Option name="alg_config"/>
+      <Option value="model:07-Identificar vértice próximo de aresta" type="QString" name="alg_id"/>
+      <Option value="" type="QString" name="color"/>
+      <Option type="Map" name="comment">
+        <Option value="" type="QString" name="color"/>
+        <Option value="" type="QString" name="component_description"/>
+        <Option value="60" type="double" name="component_height"/>
+        <Option value="1500.3536051875822" type="double" name="component_pos_x"/>
+        <Option value="938.5998102797836" type="double" name="component_pos_y"/>
+        <Option value="100" type="double" name="component_width"/>
+        <Option value="true" type="bool" name="outputs_collapsed"/>
+        <Option value="true" type="bool" name="parameters_collapsed"/>
+      </Option>
+      <Option value="07-Identificar vértice próximo de aresta" type="QString" name="component_description"/>
+      <Option value="30" type="double" name="component_height"/>
+      <Option value="339.553605187582" type="double" name="component_pos_x"/>
+      <Option value="257.1998102797835" type="double" name="component_pos_y"/>
+      <Option value="200" type="double" name="component_width"/>
+      <Option name="dependencies"/>
+      <Option value="model:07-Identificar vértice próximo de aresta_1" type="QString" name="id"/>
+      <Option name="outputs"/>
+      <Option value="true" type="bool" name="outputs_collapsed"/>
+      <Option value="true" type="bool" name="parameters_collapsed"/>
+      <Option name="params"/>
+    </Option>
+    <Option type="Map" name="model:08-Identificar geometrias com densidade incorreta de vértices_1">
+      <Option value="true" type="bool" name="active"/>
+      <Option name="alg_config"/>
+      <Option value="model:08-Identificar geometrias com densidade incorreta de vértices" type="QString" name="alg_id"/>
+      <Option value="" type="QString" name="color"/>
+      <Option type="Map" name="comment">
+        <Option value="" type="QString" name="color"/>
+        <Option value="" type="QString" name="component_description"/>
+        <Option value="60" type="double" name="component_height"/>
+        <Option value="1060.3536051875822" type="double" name="component_pos_x"/>
+        <Option value="337.5998102797836" type="double" name="component_pos_y"/>
+        <Option value="100" type="double" name="component_width"/>
+        <Option value="true" type="bool" name="outputs_collapsed"/>
+        <Option value="true" type="bool" name="parameters_collapsed"/>
+      </Option>
+      <Option value="08-Identificar geometrias com densidade incorreta de vértices" type="QString" name="component_description"/>
+      <Option value="60" type="double" name="component_height"/>
+      <Option value="344.35360518758216" type="double" name="component_pos_x"/>
+      <Option value="375.5998102797836" type="double" name="component_pos_y"/>
+      <Option value="200" type="double" name="component_width"/>
+      <Option name="dependencies"/>
+      <Option value="model:08-Identificar geometrias com densidade incorreta de vértices_1" type="QString" name="id"/>
+      <Option name="outputs"/>
+      <Option value="true" type="bool" name="outputs_collapsed"/>
+      <Option value="true" type="bool" name="parameters_collapsed"/>
+      <Option name="params"/>
+    </Option>
+    <Option type="Map" name="model:09-Identificar ângulos pequenos_1">
+      <Option value="true" type="bool" name="active"/>
+      <Option name="alg_config"/>
+      <Option value="model:09-Identificar ângulos pequenos" type="QString" name="alg_id"/>
+      <Option value="" type="QString" name="color"/>
+      <Option type="Map" name="comment">
+        <Option value="" type="QString" name="color"/>
+        <Option value="" type="QString" name="component_description"/>
+        <Option value="60" type="double" name="component_height"/>
+        <Option value="1060.3536051875822" type="double" name="component_pos_x"/>
+        <Option value="430.5998102797836" type="double" name="component_pos_y"/>
+        <Option value="100" type="double" name="component_width"/>
+        <Option value="true" type="bool" name="outputs_collapsed"/>
+        <Option value="true" type="bool" name="parameters_collapsed"/>
+      </Option>
+      <Option value="09-Identificar ângulos pequenos" type="QString" name="component_description"/>
+      <Option value="60" type="double" name="component_height"/>
+      <Option value="354.35360518758216" type="double" name="component_pos_x"/>
+      <Option value="488.5998102797836" type="double" name="component_pos_y"/>
+      <Option value="200" type="double" name="component_width"/>
+      <Option name="dependencies"/>
+      <Option value="model:09-Identificar ângulos pequenos_1" type="QString" name="id"/>
+      <Option name="outputs"/>
+      <Option value="true" type="bool" name="outputs_collapsed"/>
+      <Option value="true" type="bool" name="parameters_collapsed"/>
+      <Option name="params"/>
+    </Option>
+    <Option type="Map" name="model:10-Identificar ângulos pequenos entre camadas_1">
+      <Option value="true" type="bool" name="active"/>
+      <Option name="alg_config"/>
+      <Option value="model:10-Identificar ângulos pequenos entre camadas" type="QString" name="alg_id"/>
+      <Option value="" type="QString" name="color"/>
+      <Option type="Map" name="comment">
+        <Option value="" type="QString" name="color"/>
+        <Option value="" type="QString" name="component_description"/>
+        <Option value="60" type="double" name="component_height"/>
+        <Option value="1060.3536051875822" type="double" name="component_pos_x"/>
+        <Option value="543.5998102797836" type="double" name="component_pos_y"/>
+        <Option value="100" type="double" name="component_width"/>
+        <Option value="true" type="bool" name="outputs_collapsed"/>
+        <Option value="true" type="bool" name="parameters_collapsed"/>
+      </Option>
+      <Option value="10-Identificar ângulos pequenos entre camadas" type="QString" name="component_description"/>
+      <Option value="48" type="double" name="component_height"/>
+      <Option value="358.35360518758216" type="double" name="component_pos_x"/>
+      <Option value="589.5998102797836" type="double" name="component_pos_y"/>
+      <Option value="200" type="double" name="component_width"/>
+      <Option name="dependencies"/>
+      <Option value="model:10-Identificar ângulos pequenos entre camadas_1" type="QString" name="id"/>
+      <Option name="outputs"/>
+      <Option value="true" type="bool" name="outputs_collapsed"/>
+      <Option value="true" type="bool" name="parameters_collapsed"/>
+      <Option name="params"/>
+    </Option>
+    <Option type="Map" name="model:11-Identificar Z_1">
+      <Option value="true" type="bool" name="active"/>
+      <Option name="alg_config"/>
+      <Option value="model:11-Identificar Z" type="QString" name="alg_id"/>
+      <Option value="" type="QString" name="color"/>
+      <Option type="Map" name="comment">
+        <Option value="" type="QString" name="color"/>
+        <Option value="" type="QString" name="component_description"/>
+        <Option value="60" type="double" name="component_height"/>
+        <Option value="1060.3536051875822" type="double" name="component_pos_x"/>
+        <Option value="644.5998102797836" type="double" name="component_pos_y"/>
+        <Option value="100" type="double" name="component_width"/>
+        <Option value="true" type="bool" name="outputs_collapsed"/>
+        <Option value="true" type="bool" name="parameters_collapsed"/>
+      </Option>
+      <Option value="11-Identificar Z" type="QString" name="component_description"/>
+      <Option value="42" type="double" name="component_height"/>
+      <Option value="362.35360518758216" type="double" name="component_pos_x"/>
+      <Option value="683.5998102797836" type="double" name="component_pos_y"/>
+      <Option value="200" type="double" name="component_width"/>
+      <Option name="dependencies"/>
+      <Option value="model:11-Identificar Z_1" type="QString" name="id"/>
+      <Option type="Map" name="outputs">
+        <Option type="Map" name="flags_validade_vertices_l">
+          <Option value="model:11-Identificar Z_1" type="QString" name="child_id"/>
+          <Option value="" type="QString" name="color"/>
+          <Option type="Map" name="comment">
+            <Option value="" type="QString" name="color"/>
+            <Option value="" type="QString" name="component_description"/>
+            <Option value="60" type="double" name="component_height"/>
+            <Option value="0" type="double" name="component_pos_x"/>
+            <Option value="0" type="double" name="component_pos_y"/>
+            <Option value="100" type="double" name="component_width"/>
+            <Option value="true" type="bool" name="outputs_collapsed"/>
+            <Option value="true" type="bool" name="parameters_collapsed"/>
+          </Option>
+          <Option value="flags_validade_vertices_l" type="QString" name="component_description"/>
+          <Option value="30" type="double" name="component_height"/>
+          <Option value="562.3536051875822" type="double" name="component_pos_x"/>
+          <Option value="746.5998102797836" type="double" name="component_pos_y"/>
+          <Option value="200" type="double" name="component_width"/>
+          <Option type="invalid" name="default_value"/>
+          <Option value="false" type="bool" name="mandatory"/>
+          <Option value="flags_validade_vertices_l" type="QString" name="name"/>
+          <Option value="native:extractbylocation_1:flag_z" type="QString" name="output_name"/>
+          <Option value="true" type="bool" name="outputs_collapsed"/>
+          <Option value="true" type="bool" name="parameters_collapsed"/>
+        </Option>
+      </Option>
+      <Option value="true" type="bool" name="outputs_collapsed"/>
+      <Option value="true" type="bool" name="parameters_collapsed"/>
+      <Option name="params"/>
+    </Option>
+    <Option type="Map" name="native:mergevectorlayers_1">
+      <Option value="true" type="bool" name="active"/>
+      <Option name="alg_config"/>
+      <Option value="native:mergevectorlayers" type="QString" name="alg_id"/>
+      <Option value="" type="QString" name="color"/>
+      <Option type="Map" name="comment">
+        <Option value="" type="QString" name="color"/>
+        <Option value="" type="QString" name="component_description"/>
+        <Option value="60" type="double" name="component_height"/>
+        <Option value="638.8192125687133" type="double" name="component_pos_x"/>
+        <Option value="936.6163027154173" type="double" name="component_pos_y"/>
+        <Option value="100" type="double" name="component_width"/>
+        <Option value="true" type="bool" name="outputs_collapsed"/>
+        <Option value="true" type="bool" name="parameters_collapsed"/>
+      </Option>
+      <Option value="Merge vector layers" type="QString" name="component_description"/>
+      <Option value="30" type="double" name="component_height"/>
+      <Option value="640.3536051875822" type="double" name="component_pos_x"/>
+      <Option value="203.59981027978358" type="double" name="component_pos_y"/>
+      <Option value="200" type="double" name="component_width"/>
+      <Option name="dependencies"/>
+      <Option value="native:mergevectorlayers_1" type="QString" name="id"/>
+      <Option type="Map" name="outputs">
+        <Option type="Map" name="flags_validade_vertices_p">
+          <Option value="native:mergevectorlayers_1" type="QString" name="child_id"/>
+          <Option value="" type="QString" name="color"/>
+          <Option type="Map" name="comment">
+            <Option value="" type="QString" name="color"/>
+            <Option value="" type="QString" name="component_description"/>
+            <Option value="60" type="double" name="component_height"/>
+            <Option value="0" type="double" name="component_pos_x"/>
+            <Option value="0" type="double" name="component_pos_y"/>
+            <Option value="100" type="double" name="component_width"/>
+            <Option value="true" type="bool" name="outputs_collapsed"/>
+            <Option value="true" type="bool" name="parameters_collapsed"/>
+          </Option>
+          <Option value="flags_validade_vertices_p" type="QString" name="component_description"/>
+          <Option value="30" type="double" name="component_height"/>
+          <Option value="840.3536051875822" type="double" name="component_pos_x"/>
+          <Option value="248.59981027978358" type="double" name="component_pos_y"/>
+          <Option value="200" type="double" name="component_width"/>
+          <Option type="Map" name="default_value">
+            <Option value="QgsProcessingOutputLayerDefinition" type="QString" name="class"/>
+            <Option type="Map" name="create_options">
+              <Option value="System" type="QString" name="fileEncoding"/>
+            </Option>
+            <Option type="Map" name="sink">
+              <Option value="true" type="bool" name="active"/>
+              <Option value="1" type="int" name="type"/>
+              <Option value="TEMPORARY_OUTPUT" type="QString" name="val"/>
+            </Option>
+          </Option>
+          <Option value="true" type="bool" name="mandatory"/>
+          <Option value="flags_validade_vertices_p" type="QString" name="name"/>
+          <Option value="OUTPUT" type="QString" name="output_name"/>
+          <Option value="true" type="bool" name="outputs_collapsed"/>
+          <Option value="true" type="bool" name="parameters_collapsed"/>
+        </Option>
+      </Option>
+      <Option value="true" type="bool" name="outputs_collapsed"/>
+      <Option value="true" type="bool" name="parameters_collapsed"/>
+      <Option type="Map" name="params">
+        <Option type="List" name="CRS">
+          <Option type="Map">
+            <Option value="2" type="int" name="source"/>
+            <Option type="invalid" name="static_value"/>
+          </Option>
+        </Option>
+        <Option type="List" name="LAYERS">
+          <Option type="Map">
+            <Option value="model:05-Identificar vértice não compartilhado nas intersecções_1" type="QString" name="child_id"/>
+            <Option value="native:extractbylocation_1:flag_vertice_nao_compartilhado" type="QString" name="output_name"/>
+            <Option value="1" type="int" name="source"/>
+          </Option>
+          <Option type="Map">
+            <Option value="model:06-Identificar vértice não compartilhado nos segmentos compartilhados_1" type="QString" name="child_id"/>
+            <Option value="native:extractbylocation_1:flag_vertice_nao_compartilhado_em_seg_compartilhado" type="QString" name="output_name"/>
+            <Option value="1" type="int" name="source"/>
+          </Option>
+          <Option type="Map">
+            <Option value="model:07-Identificar vértice próximo de aresta_1" type="QString" name="child_id"/>
+            <Option value="native:extractbylocation_1:flag_vertice_proximo_aresta" type="QString" name="output_name"/>
+            <Option value="1" type="int" name="source"/>
+          </Option>
+          <Option type="Map">
+            <Option value="model:08-Identificar geometrias com densidade incorreta de vértices_1" type="QString" name="child_id"/>
+            <Option value="native:extractbylocation_1:flag_densidade_incorreta_vertices" type="QString" name="output_name"/>
+            <Option value="1" type="int" name="source"/>
+          </Option>
+          <Option type="Map">
+            <Option value="model:09-Identificar ângulos pequenos_1" type="QString" name="child_id"/>
+            <Option value="native:extractbylocation_1:flag_angulo_pequeno" type="QString" name="output_name"/>
+            <Option value="1" type="int" name="source"/>
+          </Option>
+          <Option type="Map">
+            <Option value="model:10-Identificar ângulos pequenos entre camadas_1" type="QString" name="child_id"/>
+            <Option value="native:extractbylocation_1:flag_angulo_pequeno_entre_camadas" type="QString" name="output_name"/>
+            <Option value="1" type="int" name="source"/>
+          </Option>
+        </Option>
+      </Option>
+    </Option>
+  </Option>
+  <Option type="Map" name="designerParameterValues">
+    <Option type="QgsProcessingOutputLayerDefinition" name="native:mergevectorlayers_1:flags_validade_vertices">
+      <Option type="Map">
+        <Option type="Map" name="create_options">
+          <Option value="System" type="QString" name="fileEncoding"/>
+        </Option>
+        <Option type="Map" name="sink">
+          <Option value="true" type="bool" name="active"/>
+          <Option value="1" type="int" name="type"/>
+          <Option value="TEMPORARY_OUTPUT" type="QString" name="val"/>
+        </Option>
+      </Option>
+    </Option>
+  </Option>
+  <Option name="groupBoxes"/>
+  <Option type="Map" name="help">
+    <Option value="Cap Borba" type="QString" name="ALG_CREATOR"/>
+    <Option value="Consiste em uma sequência de etapas que realizam a validação geométrica de feições. &#xa;&#xa;05-Identificar vértice não compartilhado nas intersecções &#xa;06-Identificar vértice não compartilhado nos segmentos compartilhados &#xa;07-Identificar vértice próximo de aresta &#xa;08-Identificar geometrias com densidade incorreta de vértices &#xa;09-Identificar ângulos pequenos: Identifica ângulos pequenos. &#xa;10-Identificar ângulos pequenos entre camadas&#xa; 11-Identificar Z (identificar_z):&#xa;&lt;hr/>" type="QString" name="ALG_DESC"/>
+    <Option value="3°SGT Gustavo Pereira" type="QString" name="ALG_HELP_CREATOR"/>
+    <Option value="1.1&#xa;&lt;br>&#xa;&lt;h3 style=&quot;text-align: right;&quot;>Para mais informações utilize o botão Help&lt;/h3>&#xa;" type="QString" name="ALG_VERSION"/>
+    <Option value="https://github.com/GustavoPereira75/Gustavo-Pereira/blob/main/Fluxo_altimetria_hidrografia.pdf&#xa;" type="QString" name="HELP_URL"/>
+    <Option value="" type="QString" name="SHORT_DESCRIPTION"/>
+    <Option value=" " type="QString" name="model:11-Identificar Z_1:flags_validade_vertices_l"/>
+    <Option value=" " type="QString" name="native:mergevectorlayers_1:flags_validade_vertices_p"/>
+  </Option>
+  <Option name="modelVariables"/>
+  <Option value="EDGV 3.0 Orto - Altimetria e Hidrografia" type="QString" name="model_group"/>
+  <Option value="12-Rotinas validade de vértices" type="QString" name="model_name"/>
+  <Option type="Map" name="parameterDefinitions">
+    <Option type="Map" name="model:11-Identificar Z_1:flags_validade_vertices_l">
+      <Option value="true" type="bool" name="create_by_default"/>
+      <Option value="-1" type="int" name="data_type"/>
+      <Option type="invalid" name="default"/>
+      <Option type="invalid" name="defaultGui"/>
+      <Option value="flags_validade_vertices_l" type="QString" name="description"/>
+      <Option value="0" type="int" name="flags"/>
+      <Option value="" type="QString" name="help"/>
+      <Option name="metadata"/>
+      <Option value="model:11-Identificar Z_1:flags_validade_vertices_l" type="QString" name="name"/>
+      <Option value="sink" type="QString" name="parameter_type"/>
+      <Option value="false" type="bool" name="supports_append"/>
+      <Option value="true" type="bool" name="supports_non_file_outputs"/>
+    </Option>
+    <Option type="Map" name="native:mergevectorlayers_1:flags_validade_vertices_p">
+      <Option value="true" type="bool" name="create_by_default"/>
+      <Option value="-1" type="int" name="data_type"/>
+      <Option type="QgsProcessingOutputLayerDefinition" name="default">
+        <Option type="Map">
+          <Option type="Map" name="create_options">
+            <Option value="System" type="QString" name="fileEncoding"/>
+          </Option>
+          <Option type="Map" name="sink">
+            <Option value="true" type="bool" name="active"/>
+            <Option value="1" type="int" name="type"/>
+            <Option value="TEMPORARY_OUTPUT" type="QString" name="val"/>
+          </Option>
+        </Option>
+      </Option>
+      <Option type="invalid" name="defaultGui"/>
+      <Option value="flags_validade_vertices_p" type="QString" name="description"/>
+      <Option value="0" type="int" name="flags"/>
+      <Option value="" type="QString" name="help"/>
+      <Option name="metadata"/>
+      <Option value="native:mergevectorlayers_1:flags_validade_vertices_p" type="QString" name="name"/>
+      <Option value="sink" type="QString" name="parameter_type"/>
+      <Option value="false" type="bool" name="supports_append"/>
+      <Option value="true" type="bool" name="supports_non_file_outputs"/>
+    </Option>
+  </Option>
+  <Option name="parameterOrder"/>
+  <Option name="parameters"/>
+</Option>
