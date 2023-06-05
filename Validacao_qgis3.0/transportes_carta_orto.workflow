@@ -52,8 +52,8 @@
                 "originalName": "edgv_3_orto\\transportes\\identifica_feicoes_duplicadas_transportes_carta_orto.model3"
             }
         },
-        "Identificar v\u00e9rfice n\u00e3o compartilhado nas intersec\u00e7\u00f5es": {
-            "displayName": "Identificar v\u00e9rfice n\u00e3o compartilhado nas intersec\u00e7\u00f5es",
+        "Identificar v\u00e9rtice n\u00e3o compartilhado nas intersec\u00e7\u00f5es": {
+            "displayName": "Identificar v\u00e9rtice n\u00e3o compartilhado nas intersec\u00e7\u00f5es",
             "flags": {
                 "onFlagsRaised": "halt",
                 "loadOutput": true,
@@ -69,8 +69,8 @@
                 "originalName": "edgv_3_orto\\transportes\\identifica_vertice_nao_compartilhado_nas_interseccoes_transportes_carta_orto.model3"
             }
         },
-        "Identificar v\u00e9rfice n\u00e3o compartilhado nos segmentos compartilhados": {
-            "displayName": "Identificar v\u00e9rfice n\u00e3o compartilhado nos segmentos compartilhados",
+        "Identificar v\u00e9rtice n\u00e3o compartilhado nos segmentos compartilhados": {
+            "displayName": "Identificar v\u00e9rtice n\u00e3o compartilhado nos segmentos compartilhados",
             "flags": {
                 "onFlagsRaised": "halt",
                 "loadOutput": true,
@@ -86,8 +86,8 @@
                 "originalName": "edgv_3_orto\\transportes\\identifica_vertice_nao_compartilhado_nos_segmentos_compartilhados_transportes_carta_orto.model3"
             }
         },
-        "Identificar v\u00e9rfice pr\u00f3ximo de aresta": {
-            "displayName": "Identificar v\u00e9rfice pr\u00f3ximo de aresta",
+        "Identificar v\u00e9rtice pr\u00f3ximo de aresta": {
+            "displayName": "Identificar v\u00e9rtice pr\u00f3ximo de aresta",
             "flags": {
                 "onFlagsRaised": "halt",
                 "loadOutput": true,
@@ -276,7 +276,7 @@
     },
     "metadata": {
         "author": "Cap Borba",
-        "version": "0.1",
-        "lastModified": "19/10/2022 14:10:19"
+        "version": "0.2",
+        "lastModified": "05/06/2023 16:01:19"
     }
 }
