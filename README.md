@@ -20,12 +20,6 @@ Importe o arquivo.
 
 
 
-## Deploy
-
-Para fazer o deploy desse projeto rode
-
-
-
 ## Codigo fonte
 
 import shutil
